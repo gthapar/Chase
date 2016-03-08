@@ -1,0 +1,22 @@
+{
+  "name": "Chase",
+  "description": "Clean, minimal landing page template",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Gautam Thapar"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.thewebsitedev.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
