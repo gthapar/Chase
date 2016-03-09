@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Nexa Light';
-  src: url(../fonts/Nexa-Light.woff) format('woff');
+  src: local('../fonts/Nexa-Light.woff') format('woff');
 }
 @font-face {
   font-family: 'Nexa Bold';
-  src: url(../fonts/Nexa-Bold.woff) format('woff');
+  src: local('../fonts/Nexa-Bold.woff') format('woff');
 }
 
 @import 'bootstrap.scss';

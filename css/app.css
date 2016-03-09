@@ -1,4 +1,4 @@
-@font-face{font-family:'Nexa Light';src:url(../fonts/Nexa-Light.woff) format("woff")}@font-face{font-family:'Nexa Bold';src:url(../fonts/Nexa-Bold.woff) format("woff")}/*!
+@font-face{font-family:'Nexa Light';src:local("../fonts/Nexa-Light.woff") format("woff")}@font-face{font-family:'Nexa Bold';src:local("../fonts/Nexa-Bold.woff") format("woff")}/*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
