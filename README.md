@@ -6,3 +6,5 @@ Clean, minimal landing page template
 2. Move to the cloned directory using terminal or command prompt and run `grunt`.
 
 That's it! Have fun.
+
+Browser testing powered by [BrowserStack](https://www.browserstack.com/ "BrowserStack").
