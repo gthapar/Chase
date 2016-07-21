@@ -1,5 +1,5 @@
 # Chase
-Clean, minimal landing page template
+Clean, minimal landing page template.
 
 Browser testing powered by [BrowserStack](https://www.browserstack.com/ "BrowserStack").
 
